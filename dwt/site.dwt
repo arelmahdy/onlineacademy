@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+<!-- #BeginEditable "doctitle" -->
+<title>Two Equal Height Columns - Liquid Layout</title>
+<!-- #EndEditable -->
+<!-- #BeginEditable "description" -->
+<meta content="insert DESCRIPTION here" name="description" />
+<!-- #EndEditable -->
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="General" name="rating" />
+<meta content="no" http-equiv="imagetoolbar" />
+<meta content="Copyright 2015, Pat Geary and Tina Clarke http://frontpage-to-expression.com/ All Rights Reserved" name="copyright" />
+<!-- main css -->
+<link href="../styles/site.css" rel="stylesheet" type="text/css" />
+<!-- media queries css -->
+<link href="../styles/media-queries.css" rel="stylesheet" type="text/css" />
+<!-- css3-mediaqueries.js for IE less than 9 --><!--[if lt IE 9]>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js">
+
+</script>
+<![endif]-->
+<meta content="width=device-width; initial-scale=1.0" name="viewport" />
+<style type="text/css">
+.auto-style1 {
+	font-weight: normal;
+	font-size: xx-large;
+	color: #FFFFFF;
+	font-family: Andalus;
+}
+.auto-style4 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: bold;
+	font-size: large;
+	margin-left: 16px;
+}
+.auto-style5 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: bold;
+	font-size: large;
+	margin-left: 17px;
+}
+.auto-style6 {
+	display: block;
+	color: #FFFFFF;
+	font-weight: bold;
+	padding: 4px;
+	background: #1C140E;
+	text-decoration: none;
+	border: 1px solid #1C140E;
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	text-align: center;
+}
+.auto-style7 {
+	text-align: right;
+}
+</style>
+</head>
+
+<body>
+
+<!-- Page Container begins here -->
+<div id="outerWrapper" class="auto-style7">
+	<!-- Masthead begins here -->
+	<div id="header" class="ctr">
+		<img alt="img" src="../images/school1.jpg" style="width: 369px; height: 96px" id="img1" /><br />
+		<br />
+		<span class="auto-style1"><strong>اون لاين اكاديمى</strong></span></div>
+	<div class="ctr">
+	<!-- Masthead ends here -->
+	<!-- Top Navigation begins here -->
+	
+	
+			
+				
+				<a href="../contact.html" style="width:15%">
+		<input class="auto-style4" name="Button5" style="width: 86px; color: #FFFFFF; background: #000000; background-color: #0000FF;" type="button" value="اتصل بنا" /></a>
+				<a href="../privacy-policy.html" style="width:15%" >
+		<input class="auto-style4" name="Button4" style="width: 80px; color: #FFFFFF; background: #000000; background-color: #0000FF;" type="button" value="النتائج" /></a>
+				<a href="../template-info.html" style="width:15%" >
+		<input class="auto-style4" name="Button3" style="width: 125px; color: #FFFFFF; background: #000000; background-color: #0000FF;" type="button" value="هيئة التدريس" /></a>
+				<a href="../about.html" style="width:15%" >
+		<input class="auto-style5" name="Button2" style="width: 142px; height: 34px; color: #FFFFFF; background: #000000; background-color: #0000FF;" type="button" value="نبذة عن الكلية" /></a>
+				<a href="..\index.html" style="width:15%">
+		<input class="auto-style5" name="Button1" style="width: 80px; background: #000000; color: #FFFFFF; background-color: #0000FF;" type="button" value="الرئيسية" /></a>
+				
+			
+		
+
+	<!-- Top Navigation ends here -->
+	<!-- Columns Container begins here -->
+		<br />
+	</div>
+	<div id="contentWrapper">
+		<!-- Left Sidebar Begins Here	-->
+		<div id="leftColumn1">
+<!-- Search Box Begins Here		-->
+		<div class="search">
+				<form id="cse-search-box" action="http://www.google.com/cse" class="myform">
+					<div>
+						<input name="cx" type="hidden" value="009206261522604705567:szjmq6-ogvi" />
+						<input name="ie" type="hidden" value="UTF-8" />
+						<input name="q" size="10" type="text" />
+						<input class="submit" name="sa" type="submit" value="بحث" />
+						<br />
+						</div>
+				</form>
+				<script src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript"></script>
+			</div>
+			
+			<!-- Search Box Ends Here		-->
+
+			<!--	Sectional Menu Begins Here	-->
+			<p class="auto-style6">أقسام الاكاديمية</p>
+			<ul style="text-align:center">
+				<li class="ctr"><a href="#" title="Home">القسم الاول</a></li>
+				<li class="ctr"><a href="#" title="About">القسم الثانى</a></li>
+				<li class="ctr"><a href="#" title="Contact">القسم الثالث</a></li>
+				<li class="ctr"><a href="#" title="Links">القسم الرابع</a></li>
+				<li class="ctr"><a href="#" title="Search">القسم الخامس</a></li>
+				<li class="ctr"><a href="#" title="Site Map">القسم السادس</a></li>
+			</ul>
+			<!--	Sectional Menu ends Here	-->
+			<p>&nbsp;</p>
+			<p class="ctr">تواصل معنا على :<br />
+				<img alt="Connect with us on Facebook." src="../images/facebook_32.png" style="width: 32px; height: 32px" /> 
+				<img alt="Connect with us on Twitter." src="../images/twitter_32.png" style="width: 32px; height: 32px" /></p>
+		</div>
+		<!-- Left Sidebar ends Here	-->
+		<!--Main Content Area Begins Here-->
+		<div id="content">
+			<!-- #BeginEditable "content" -->
+			<p>&nbsp;</p>
+			<!-- #EndEditable --><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+		</div>
+		<!--Main Content Area Ends Here--></div>
+	<!-- Columns Container begins here -->
+	<!-- Footer begins here -->
+	<div id="footer">
+		<p>Copyright © جميع حقوق النشر محفوظة ل اون لاين اكاديمى</p>
+		<p>your-name@your-domain.com
+		<a href="../privacy-policy.html" title="Privacy Policy.">Privacy Policy</a>
+		</p>
+		<p class="smltxt">Template Design:
+		<a href="http://www.expression-web-tutorials.com/" title="Expression Web Tutorials &amp; Templates.">
+		Expression Web Tutorials &amp; Templates</a></p>
+		<p class="smltxt">Template Updated: July 2015 </p>
+	</div>
+	<!-- Footer ends here -->
+	<!-- Page Container ends here --></div>
+
+</body>
+
+</html>
